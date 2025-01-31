@@ -9,13 +9,6 @@ This repository demonstrates how adversarial attacks can fool state-of-the-art v
 ## Table of Contents
 - [Key Features](#key-features)
 - [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Attack Methods](#attack-methods)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [References](#references)
-
 ---
 
 ## Key Features 🚀
